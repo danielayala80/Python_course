@@ -1,0 +1,8 @@
+'''
+Created on 23 mar. 2020
+
+@author: daniel
+'''
+
+#pirnt hello world
+print("Hello, World!")
